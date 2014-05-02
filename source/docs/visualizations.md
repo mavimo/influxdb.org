@@ -8,4 +8,4 @@ One of the goals with building InfluxDB with an HTTP API first was that it would
 
 ### Grafana
 
-[Grafana](http://grafana.org/) is a frontend with powerfull visualization features for time series data. It is very easy to install and configure Grafana as it is a client side application that runs in your browser. Has [support for InfluxDB](https://github.com/grafana/grafana/issues/103) as Datasource.
+[Grafana](http://grafana.org/) is a frontend with powerfull visualization features for time series data. It is very easy to install and configure Grafana as it is a client side application that runs in your browser. Has [support for InfluxDB](http://grafana.org/docs/features/influxdb/) as Datasource.
